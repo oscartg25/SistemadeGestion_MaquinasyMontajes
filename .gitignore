@@ -1,0 +1,23 @@
+# Java build
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+/.idea/
+/*.iml
+*.log
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Archivos de datos binarios
+*.dat
+*.ser
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
